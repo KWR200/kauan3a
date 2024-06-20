@@ -1,4 +1,4 @@
-Meu nome é Marcelo Paludetto
+Meu nome é Kauan reis da silva
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
